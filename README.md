@@ -1,2 +1,6 @@
-# First_Django_app
-This is first Django app from Django documentation 
+# Polls and Votes site with Admin panel
+
+It’ll consist of two parts:
+
+A public site that lets people view polls and vote in them.
+An admin site that lets you add, change, and delete polls.
